@@ -127,7 +127,6 @@ int main() {
     cout << "enter 2 if u want to display all books" << endl;
     cout << "enter 3 if u want to borrow a book" << endl;
     cout << "enter 4 if u want to return a book" << endl;
-    cout << "enter 4 if u want to return a book" << endl;
     cout << "enter 5 if u want to exit the program" << endl;
     pragramoutput();
 }
